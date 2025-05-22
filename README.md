@@ -28,7 +28,6 @@
 
 ---
 
-
 # Projects  ## 
 
 -  CI/CD Java & Nodejs Pipeline: [CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
@@ -66,9 +65,7 @@
 </p>
 
 ---
-
----
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
@@ -80,8 +77,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" height="30" /> 
-
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" height="30" />
 </p>
 
 ---
