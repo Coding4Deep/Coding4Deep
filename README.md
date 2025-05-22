@@ -59,12 +59,22 @@
 ### 💼 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/deepaksagar07" target="blank">
+  <a href="https://linkedin.com/in/deepaksagar07" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sagardeepak2002@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Gmail" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Coding4Deep" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" />
+  </a>
 </p>
-- 🌐 Portfolio: [https://github.com/Coding4Deep](https://github.com/Coding4Deep)
+
+- 🌐 Portfolio: [https://github.com/Coding4Deep](https://github.com/Coding4Deep)  
 - 📫 Reach me: **sagardeepak2002@gmail.com**
+
 ---
 
 
