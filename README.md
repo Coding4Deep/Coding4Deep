@@ -31,8 +31,10 @@
 
 # 🚀 Projects  ## 
 
-- 🔧 CI/CD Java & Nodejs Pipeline: [Java + Node.js CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
-- 📦 java-maven deployment to tomcat: [Maven-Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
+-  CI/CD Java & Nodejs Pipeline: [CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
+-  java-maven deployment to tomcat: [Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
+-  Kubernetes project & Tutorial: [kubernetes](https://github.com/Coding4Deep/kubernetes.git)
+-  3-Tier Spring-Boot MongoDB,Memcached,RabbitMQ: [Spring-Boot](https://github.com/Coding4Deep/3-tier-spring-mongo.git)
 
 ---
 <p align="left">
