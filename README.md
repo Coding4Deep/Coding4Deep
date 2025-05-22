@@ -32,8 +32,8 @@
 
 # 🚀 Projects  ## 
 
-- 🔧 CI/CD Pipeline: [Java + Node.js CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
-- 📦 Maven + Tomcat: [Maven-Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
+- 🔧 CI/CD Java & Nodejs Pipeline: [Java + Node.js CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
+- 📦 java-maven deployment to tomcat: [Maven-Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
 
 ---
 <p align="left">
