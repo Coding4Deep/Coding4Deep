@@ -7,7 +7,7 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+##  Tech Stack & Tools
 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -30,7 +30,7 @@
 ---
 
 
-### 🚀 Projects  ## 
+# 🚀 Projects  ## 
 
 - 🔧 CI/CD Pipeline: [Java + Node.js CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
 - 📦 Maven + Tomcat: [Maven-Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
@@ -56,7 +56,7 @@
 
 ---
 
-### 💼 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/deepaksagar07" target="_blank" rel="noopener noreferrer">
