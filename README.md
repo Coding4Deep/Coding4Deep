@@ -34,8 +34,6 @@
 
 - 🔧 CI/CD Pipeline: [Java + Node.js CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
 - 📦 Maven + Tomcat: [Maven-Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
-- 🌐 Portfolio: [https://github.com/Coding4Deep](https://github.com/Coding4Deep)
-- 📫 Reach me: **sagardeepak2002@gmail.com**
 
 ---
 <p align="left">
@@ -65,7 +63,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
   </a>
 </p>
-
+- 🌐 Portfolio: [https://github.com/Coding4Deep](https://github.com/Coding4Deep)
+- 📫 Reach me: **sagardeepak2002@gmail.com**
 ---
 
 
