@@ -27,6 +27,10 @@
 - 🌐 Portfolio: [https://github.com/Coding4Deep](https://github.com/Coding4Deep)
 - 📫 Reach me: **sagardeepak2002@gmail.com**
 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30" height="30" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="30" height="30" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" height="30" />****
+
 ---
 
 ### 💼 Connect with me
