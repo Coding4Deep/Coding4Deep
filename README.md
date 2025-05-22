@@ -5,10 +5,6 @@
 
 - 🔭 CI/CD Pipeline for Node.js & Maven Apps [java-nodejs ci cd pipeline](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
 
-- 🌱 I’m currently learning **Python Boto3**
-
-- 👯 CI/CD for Nodejs-Sonar-Nexus [NodeJs-Nexus-SonarQube-Project](https://github.com/Coding4Deep/Nodejs-Sonar-Nexus-project.git)
-
 - 🔭 Maven-Tomcat Deployment [Maven-Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Coding4Deep](https://github.com/Coding4Deep)
