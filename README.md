@@ -21,7 +21,10 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Projects   ## <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30" height="30" />&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="30" height="30" />&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" height="30" /> Projects
+
 - 🔧 CI/CD Pipeline: [Java + Node.js CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
 - 📦 Maven + Tomcat: [Maven-Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
 - 🌐 Portfolio: [https://github.com/Coding4Deep](https://github.com/Coding4Deep)
