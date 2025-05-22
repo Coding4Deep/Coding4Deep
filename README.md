@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Sagar</h1>
-<h3 align="center">I'm a passionate DevOps engineer skilled in designing, automating, and optimizing scalable infrastructure and CI/CD pipelines. With hands-on experience in AWS, Docker, Kubernetes, Jenkins, Terraform, Linux, Git, and modern monitoring tools, I specialize in building reliable DevOps ecosystems that boost deployment speed, system reliability, and developer productivity.
-I thrive on automating workflows, solving real-world problems, and continuously learning emerging technologies to drive innovation in software delivery</h3>
+<h3 align="center">I'm a passionate DevOps engineer skilled in designing, automating, and optimizing scalable infrastructure and CI/CD pipelines. With hands-on experience in AWS, Docker, Kubernetes, Jenkins, Terraform, Linux, Git, and modern monitoring tools, I specialize in building reliable DevOps ecosystems that boost deployment speed, system reliability, and developer productivity</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=coding4deep&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
