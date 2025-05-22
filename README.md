@@ -27,7 +27,6 @@
 
 ### 🧰 Tech Stack & Tools
 
-#### 🔖 Shields Badges
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -48,7 +47,7 @@
 
 ---
 
-#### 📦 Icon Grid
+
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
@@ -65,11 +64,10 @@
 
 ---
 
-### 📊 GitHub Stats
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=coding4deep&show_icons=true&theme=radical&count_private=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding4deep&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding4deep&theme=radical" />
 </p>
 
 <p align="center">
