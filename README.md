@@ -64,7 +64,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sagardeepak2002@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Coding4Deep" target="_blank" rel="noopener noreferrer">
