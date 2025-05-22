@@ -67,9 +67,10 @@
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=coding4deep&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding4deep&theme=radical" />
+  <img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding4deep&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding4deep&layout=compact&theme=radical&langs_count=10" />
+  <img width="95%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding4deep&layout=compact&theme=radical&langs_count=10" />
 </p>
+
