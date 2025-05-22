@@ -17,14 +17,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" height="30" /> 
+
 </p>
 
 ---
 
 ### 🚀 Projects  ## 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30" height="30" />&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="30" height="30" />&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" height="30" /> 
 
 - 🔧 CI/CD Pipeline: [Java + Node.js CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
 - 📦 Maven + Tomcat: [Maven-Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
