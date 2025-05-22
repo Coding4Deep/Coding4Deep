@@ -29,31 +29,12 @@
 ---
 
 
-# 🚀 Projects  ## 
+# Projects  ## 
 
 -  CI/CD Java & Nodejs Pipeline: [CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
 -  java-maven deployment to tomcat: [Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
 -  Kubernetes project & Tutorial: [kubernetes](https://github.com/Coding4Deep/kubernetes.git)
 -  3-Tier Spring-Boot MongoDB,Memcached,RabbitMQ: [Spring-Boot](https://github.com/Coding4Deep/3-tier-spring-mongo.git)
-
----
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" height="30" /> 
-
-</p>
-
----
 
 ---
 
@@ -75,7 +56,6 @@
 
 ---
 
-
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=coding4deep&show_icons=true&theme=radical&count_private=true" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding4deep&theme=radical" />
@@ -85,3 +65,23 @@
   <img width="95%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding4deep&layout=compact&theme=radical&langs_count=10" />
 </p>
 
+---
+
+---
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" height="30" /> 
+
+</p>
+
+---
