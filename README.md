@@ -29,7 +29,7 @@
 ![Alloy](https://img.shields.io/badge/Alloy-FF6F00?style=for-the-badge&logo=grafana&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) 
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-F2C811?style=for-the-badge&logo=logstash&logoColor=black) <br>
+![Logstash](https://img.shields.io/badge/Logstash-F2C811?style=for-the-badge&logo=logstash&logoColor=black)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black) <br>
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
